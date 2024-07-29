@@ -1,0 +1,18 @@
+current directory: /Users/takuya/Desktop/dev/rails_my_web_apps/books_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/takuya/.rbenv/versions/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/takuya/Desktop/dev/rails_my_web_apps/books_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240729-14646-3kn4k sitelibdir\=./.gem.20240729-14646-3kn4k clean
+
+current directory: /Users/takuya/Desktop/dev/rails_my_web_apps/books_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240729-14646-3kn4k sitelibdir\=./.gem.20240729-14646-3kn4k
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/takuya/Desktop/dev/rails_my_web_apps/books_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240729-14646-3kn4k sitelibdir\=./.gem.20240729-14646-3kn4k install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240729-14646-3kn4k/racc
+
+current directory: /Users/takuya/Desktop/dev/rails_my_web_apps/books_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240729-14646-3kn4k sitelibdir\=./.gem.20240729-14646-3kn4k clean
